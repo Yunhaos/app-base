@@ -8,9 +8,10 @@
 >>>google()  
 >>>jcenter()  
 >>>maven { url 'https://jitpack.io' }  
->>>maven { url "https://raw.githubusercontent.com/Yunhaos/app-base/master" }
+>>>maven { url "https://raw.githubusercontent.com/Yunhaos/app-base/master" }  
 >>}  
->}<br/>
+>}  
+
 在需要引用的模块中添加：<br/>
 >`api 'com.yunhao.android.dev:app-base:0.0.1'`
 
