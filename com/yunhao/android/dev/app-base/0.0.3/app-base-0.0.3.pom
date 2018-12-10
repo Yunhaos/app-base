@@ -80,6 +80,12 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
+      <groupId>com.android.support</groupId>
+      <artifactId>cardview-v7</artifactId>
+      <version>27.1.1</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>com.orhanobut</groupId>
       <artifactId>logger</artifactId>
       <version>2.2.0</version>
